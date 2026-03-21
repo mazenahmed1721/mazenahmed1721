@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-c714d4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mazenkhalil805/)
+[![Instagram](https://img.shields.io/badge/Instagram-ec8bfb?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mazenkhalil805/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mazenahmed1721)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazenahmed1721@gmail.com
 )
