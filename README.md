@@ -1,5 +1,8 @@
-<h1 align="center">Hello Everybody 👋, I am Mazen Khalil</h1>
+<h1 align="center">Konnichiwa 👋, I am Mazen Khalil</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008B8B&center=true&vCenter=true&width=500&weight=700&lines=STEM+Student;Front-End+Web+Developer;Game+Developer" alt="Typing SVG" />
+</div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mazenahmed1721&color=00008B&style=flat-square&label=Profile+Views" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/mazenahmed1721?style=flat-square&color=00008B" alt="GitHub followers" />
