@@ -8,7 +8,9 @@
   <img src="https://img.shields.io/github/followers/mazenahmed1721?style=flat-square&color=00008B" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/mazenahmed1721?style=flat-square&color=00008B" alt="GitHub stars" />
 </div>
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/mazenahmed1721)"><img src="https://github-profile-trophy.vercel.app/?username=mazenahmed1721" alt="mazen-khalil" /></a></p>
+<p align="left">
+  <img src="./trophy.svg" alt="GitHub Trophies" />
+</p>
 
 <div align="center">
 
